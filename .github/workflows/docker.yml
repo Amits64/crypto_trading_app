@@ -49,7 +49,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build Docker Compose images
-        run: docker-compose -f ./docker-compose.yml build
+        run: docker compose build
 
       - name: Push Docker Compose images
-        run: docker-compose -f ./docker-compose.yml push
+        run: docker compose push
