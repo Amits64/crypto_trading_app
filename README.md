@@ -1,3 +1,15 @@
+[![ci](https://github.com/Amits64/crypto_trading_app/actions/workflows/docker.yml/badge.svg)](https://github.com/Amits64/crypto_trading_app/actions/workflows/docker.yml)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=crypto-trading-app)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=bugs)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=coverage)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=crypto-trading-app&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=crypto-trading-app)
+
 ## Crypto Arbitrage Analyzer with Dash 💼 📈
 
 Harness the power of Python and Dash Framework to explore and visualize real-time arbitrage opportunities across various
